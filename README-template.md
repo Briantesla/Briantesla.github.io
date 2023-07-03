@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![![Alt text](image.png)]
+![Alt text](<images/Screenshot 2023-07-03 161352.png>)
 
 ### Links
 
